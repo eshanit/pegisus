@@ -1,0 +1,12 @@
+.social-icon {
+
+  color: #4f46e5;
+}
+
+/* Mobile menu social icons */
+@media (max-width: 767px) {
+    .social-icon {
+        @apply w-8 h-8;
+    }
+}
+/* Rest of your styles */
